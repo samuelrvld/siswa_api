@@ -8,3 +8,9 @@ REGISTER
 ![GAMBAR](image.png)
 DI DATABASE
 ![GAMBAR](image-1.png)
+
+LOGIN
+![GAMBAR](image-2.png)
+
+PENAMBAHAN DATA SISWA
+![GAMBAR](image-3.png)
